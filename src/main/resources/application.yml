@@ -1,0 +1,17 @@
+security:
+  oauth2:
+    client:
+      clientId: 929307921618-5ik5od45a1n1s5ihjh1fljf8fhpm5cma.apps.googleusercontent.com
+      clientSecret: L_c2uzjcqA146RXNaehLy0Ro
+      accessTokenUri: https://accounts.google.com/o/oauth2/token
+      userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+      scope: email profile
+      clientAuthenticationScheme: form
+      authorized-grant-types: authorization_code
+    resource:
+      userInfoUri: https://www.googleapis.com/userinfo/v2/me
+        
+        
+
+
+
